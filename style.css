@@ -1,0 +1,37 @@
+
+
+h1{
+    color: brown;
+    padding:20px;
+    font-size:20ps;
+    text-align:center;
+
+}
+body{
+    color: blue;
+    background: orange;
+    font-size:14px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top:20px;
+}
+
+
+a{
+    color:pink;
+}
+
+
+
+#bio-image{
+    margin-left: 50px;
+}
+
+#contact-info,
+#main-bio{
+    width: 60%;
+    float: left;
+}
+
+.myh2{
+    color:green;
+}
